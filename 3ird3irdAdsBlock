@@ -11,3 +11,7 @@ www.dooseries4k.com##.width-auto > .h-100.w-100 > tbody > tr > .topad_mid > div 
 www.dooseries4k.com##.main-movie > .h-100.w-100 > tbody > tr > .topad_mid > div > [href^="https://www.dooseries4k.com/ads/go.php"]
 www.dooseries4k.com##.show-movie > .h-100.w-100 > tbody > tr > .topad_mid > div > a[href^="https://www.dooseries4k.com/ads/go.php"]
 www.dooseries4k.com##.footer
+||www.dooseries4k.com/wp-content/uploads/2023/06/*.gif$image
+||www.dooseries4k.com/wp-content/uploads/2023/12/*.gif$image
+||www.dooseries4k.com/wp-content/uploads/2023/11/*.gif$image
+
